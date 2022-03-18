@@ -1,0 +1,22 @@
+body {
+
+}
+
+.car {
+display: flex;
+background-color: brown;
+
+
+}
+
+.car2 {
+    margin: 5px;
+    background-color: black;
+    color: white;
+}
+
+.car3 {
+    list-style-type: square;
+    border: 2px solid black;
+    
+}
